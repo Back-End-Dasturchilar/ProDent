@@ -1,2 +1,0 @@
-# ProDent
-ProDent website API
